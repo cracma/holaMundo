@@ -9,6 +9,8 @@ public class Arreglo_1 {
 
     public static void main(String[] args) {
         System.out.println("cambios");
+        System.out.println("cambios");
+        
         
         //Defino el el arreglo
         int[] numeros = new int[5];
